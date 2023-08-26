@@ -180,6 +180,12 @@ small,
   padding: 5rem 5rem;
 }
 
+@media only screen and (max-width: 592px) {
+  .hero {
+    padding: 2rem;
+    text-align: center;
+  }
+}
 @media only screen and (max-width: 1024px) {
   .page-header.big {
     font-size: 3.5em;
