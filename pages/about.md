@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: "/about/"
-image: assets/images/bigbanner.jpg
+image: assets/images/smallbanner.jpg
 ---
 
 #### Welcome to Koottali. Koottali is the ultimate dating app designed exclusively for the vibrant Malayali community in Kerala. Uniting hearts, connecting minds, and fostering meaningful relationships – all under one secure and welcoming roof.
