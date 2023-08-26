@@ -2,7 +2,7 @@
 layout: post
 title: "Essential Dating Tips for a Successful Journey to Love"
 categories: [koottali, dating]
-image: assets/images/1.jpg
+image: assets/images/datingtips.jpg
 ---
 
 Dating can be an exciting, nerve-wracking, and transformative experience. Whether you're just dipping your toes into the dating pool or you've been on the journey for a while, navigating the world of dating can sometimes feel like uncharted territory. But fear not! By adopting a positive mindset and employing effective strategies, you can elevate your dating journey and improve the likelihood of forging a deep and meaningful connection.. Here are six essential dating tips to set you on the path to success:
