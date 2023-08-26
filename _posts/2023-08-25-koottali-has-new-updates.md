@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Koottali has hew updates"
+title: "Koottali has new updates"
 categories: [Kottali]
 image: assets/images/ha3.jpg
 ---
