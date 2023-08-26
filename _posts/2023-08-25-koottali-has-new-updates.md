@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Koottali has hew updates"
+title: "Koottali has hew updates"
 categories: [Kottali]
-image: assets/images/1.jpg
+image: assets/images/ha3.jpg
 ---
+
 Find Love and Matrimony with Koottali: Kerala's Premier Dating App for Malayali Singles
 
 Welcome to Koottali. Koottali is the ultimate dating app designed exclusively for the vibrant Malayali community in Kerala. Uniting hearts, connecting minds, and fostering meaningful relationships – all under one secure and welcoming roof.
