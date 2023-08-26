@@ -215,6 +215,11 @@ small,
 .hero h1 {
   font-size: 2.5em;
 }
+@media only screen and (max-width: 592px) {
+  .hero h1 {
+    font-size: 2.1em;
+  }
+}
 .section-title h2 {
   font-weight: 700;
   font-size: 1.4rem;
