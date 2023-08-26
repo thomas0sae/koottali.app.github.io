@@ -21,3 +21,5 @@ Dating can be an exhilarating journey full of potential, but it's important to a
 Conclusion: Prioritize Your Well-being
 
 While it's important to give people a chance, it's equally crucial to recognize and respond to these red flags in order to protect your emotional and mental well-being. Ignoring these warning signs could lead to a relationship filled with stress, frustration, and even harm. Remember, a healthy relationship should be based on trust, mutual respect, and open communication. By staying attentive to these red flags, you empower yourself to make informed decisions about your dating journey, increasing your chances of finding a partner who truly values and respects you.
+
+[Get koottali app (Android & iOS)](https://emwavetech.com/get-koottali/)
