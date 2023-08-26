@@ -170,7 +170,13 @@ small,
 /* Pages
 ================================================== */
 .hero {
-  background: #fd3df0;
+  // background: #fd3df0;
+  background: rgb(253, 61, 240);
+  background: linear-gradient(
+    123deg,
+    rgba(253, 61, 240, 1) 47%,
+    rgba(222, 95, 191, 1) 100%
+  );
   padding: 5rem 5rem;
 }
 
