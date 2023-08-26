@@ -28,7 +28,7 @@ While it's important to learn from past relationships, it's equally important no
 
 In the age of instant gratification, it's tempting to rush into things. However, building a strong foundation takes time. Allow the relationship to develop naturally, and don't feel pressured to reach certain milestones by a specific timeline. Taking things slow allows you to truly get to know your partner and develop a deeper connection.
 
-1. Practice Self-Care: Maintain Your Independence
+- #### Practice Self-Care: Maintain Your Independence
 
 While it's exciting to enter a new relationship, it's essential to maintain your sense of self and independence. Continue engaging in activities that bring you joy, spending time with friends and family, and pursuing personal goals. A healthy balance between your romantic life and personal interests ensures that you're entering a relationship as a fulfilled and confident individual.
 
