@@ -3,9 +3,9 @@ email: wowthemesnet@gmail.com
 timezone: UTC
 baseurl: "/"
 permalink: "/:title/"
-logo: "assets/images/ktnew.svg"
+logo: "assets/images/logo.png"
 favicon: "assets/images/ktnew.svg"
-author: Sal
+author: koottali
 paginate: 30
 disqus: "demowebsite"
 locale: en_us

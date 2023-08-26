@@ -4,8 +4,7 @@ topmenu:
     url: ""
 
   - title: About
-    url: "https://emwavetech.com/"
-    external: true
+    url: "about/"
 
   - title: Contact
     url: "contact/"
@@ -24,7 +23,7 @@ footermenu:
     url: "privacy-policy/"
 
   - title: Contact
-    url: "https://emwavetech.com/"
+    url: "contact/"
 
   # - title: Download
   #   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/

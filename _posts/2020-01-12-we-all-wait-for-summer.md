@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Essential Dating Tips for a Successful Journey to Love"
-categories: [Jekyll, tutorial]
+categories: [koottali, dating]
 image: assets/images/1.jpg
 ---
 
