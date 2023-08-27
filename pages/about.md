@@ -45,4 +45,6 @@ Connecting hearts worldwide: Koottali dating app is your gateway to authentic co
 Get ready to mingle! Koottali dating app brings people together in pursuit of love.
 Looking for sparks? Koottali dating app is here to ignite your love life.
 
-[Get koottali app (Android & iOS)](https://emwavetech.com/get-koottali/)
+[Koottali Android app](https://play.google.com/store/apps/details?id=com.koottali.app)
+[Koottali IOS app](https://apps.apple.com/us/app/koottali-connect-with-mallus/id6448742453)
+
