@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Navigating the Maze of Modern Dating: Understanding Ghosting and Its Impact on Love, Relationships, and Friendships"
-categories: [koottali, dating]
+categories: [koottali, dating, malayali dating]
 image: assets/images/ha6.jpg
 ---
 
@@ -31,4 +31,4 @@ Conclusion: Redefining Dating Norms
 
 The phenomenon of ghosting in modern dating culture reveals the need for a shift in our approach to relationships. As we strive to find love and connection, it's crucial to remember the impact our actions have on others. By fostering empathy, open communication, and respect, we can redefine dating norms and create an environment where ghosting becomes a rarity rather than the norm. Let's strive for a dating world where love, relationships, and friendships are nurtured with kindness and understanding.
 
-[Get koottali dating app (Android & iOS)](https://koottali.com/download/)
+[Get koottali: Malayali dating app (Android & iOS)](https://emwavetech.com/get-koottali/)

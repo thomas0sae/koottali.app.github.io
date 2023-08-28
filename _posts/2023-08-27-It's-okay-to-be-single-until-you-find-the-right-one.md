@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "It's Okay to Be Single Until You Find the Right One"
-categories: [koottali, dating]
+categories: [koottali, dating, malayali dating]
 image: assets/images/ha5.jpg
 ---
 
@@ -31,4 +31,4 @@ At the end of the day, happiness should be the ultimate goal in life. Being sing
 
 In a world that often emphasizes the importance of being in a romantic relationship, it's essential to remember that your journey is uniquely yours. It's absolutely okay to be single until you find the right person. Prioritize self-love, personal growth, and meaningful friendships as you navigate the world of dating. By doing so, you'll not only increase your chances of finding a fulfilling and compatible partner but also create a life that's rich in happiness and self-discovery. So, celebrate your journey, embrace your single status, and trust that love will come your way when the time is right.
 
-[Get koottali dating app (Android & iOS)](https://koottali.com/download/)
+[Get koottali: Malayali dating app (Android & iOS)](https://emwavetech.com/get-koottali/)
