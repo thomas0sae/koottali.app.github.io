@@ -37,4 +37,6 @@ Setting boundaries isn't about creating barriers; it's about practicing self-car
 
 In a world driven by digital communication and the desire for meaningful connections, understanding and setting boundaries has become a fundamental skill. As you navigate relationships on platforms like the Koottali Malayali dating app and in your personal life, remember that boundaries are the cornerstone of respect, self-care, and healthy interactions. By embracing the concept of boundaries, you're not only safeguarding your own well-being but also contributing to the growth and success of the relationships you cherish.
 
-[Get koottali: Malayali dating app (Android & iOS)](https://emwavetech.com/get-koottali/)
+[Get koottali: Malayali dating app for android](https://play.google.com/store/apps/details?id=com.koottali.app&hl=en_IN&gl=US)
+
+[Get koottali: Malayali dating app for iOS](https://apps.apple.com/us/app/koottali-connect-with-mallus/id6448742453)

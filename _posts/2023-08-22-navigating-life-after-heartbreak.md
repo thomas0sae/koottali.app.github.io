@@ -37,6 +37,6 @@ As you move forward, prioritize self-care and self-compassion. Treat yourself wi
 
 Heartbreak is undoubtedly painful, but it's also a catalyst for growth and transformation. As you navigate life after heartbreak, remember that healing isn't linear, and it's okay to have good days and bad days. Embrace the support of friends, the lessons learned, and the chance to rediscover yourself. Whether you're taking a break from dating or exploring new connections on the Koottali Malayali dating app, the healing journey is about finding hope, renewal, and a stronger sense of self.
 
-![Alt text](/koottali.com.github.io/assets/images/in1.jpg "a title")
+![Alt text](/assets/images/in1.jpg "a title")
 
 [Get koottali: Malayali dating app (Android & iOS)](https://emwavetech.com/get-koottali/)
