@@ -34,4 +34,6 @@ While it's exciting to enter a new relationship, it's essential to maintain your
 
 In conclusion, the world of dating can be an incredible journey of self-discovery and connection. By being authentic, communicating openly, managing expectations, learning from the past, taking your time, and practicing self-care, you'll be well-equipped to navigate the highs and lows of dating. Remember that every experience is a lesson, bringing you one step closer to finding the meaningful and loving relationship you deserve. So, embrace the adventure with an open heart and an open mind – your perfect match could be just around the corner!
 
-[Get koottali: Malayali dating app (Android & iOS)](https://emwavetech.com/get-koottali/)
+[Get koottali: Malayali dating app for android](https://play.google.com/store/apps/details?id=com.koottali.app&hl=en_IN&gl=US)
+
+[Get koottali: Malayali dating app for iOS](https://apps.apple.com/us/app/koottali-connect-with-mallus/id6448742453)

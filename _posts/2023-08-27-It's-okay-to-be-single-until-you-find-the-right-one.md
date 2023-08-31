@@ -31,4 +31,6 @@ At the end of the day, happiness should be the ultimate goal in life. Being sing
 
 In a world that often emphasizes the importance of being in a romantic relationship, it's essential to remember that your journey is uniquely yours. It's absolutely okay to be single until you find the right person. Prioritize self-love, personal growth, and meaningful friendships as you navigate the world of dating. By doing so, you'll not only increase your chances of finding a fulfilling and compatible partner but also create a life that's rich in happiness and self-discovery. So, celebrate your journey, embrace your single status, and trust that love will come your way when the time is right.
 
-[Get koottali: Malayali dating app (Android & iOS)](https://emwavetech.com/get-koottali/)
+[Get koottali: Malayali dating app for android](https://play.google.com/store/apps/details?id=com.koottali.app&hl=en_IN&gl=US)
+
+[Get koottali: Malayali dating app for iOS](https://apps.apple.com/us/app/koottali-connect-with-mallus/id6448742453)

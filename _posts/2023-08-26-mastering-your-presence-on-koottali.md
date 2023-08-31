@@ -45,4 +45,6 @@ While it's tempting to project an idealized version of yourself, authenticity is
 
 Koottali's multifaceted platform offers a plethora of opportunities to showcase your personality and connect with potential matches in meaningful ways. By combining a captivating profile picture, an engaging bio, active live chats, social media sharing, intentional swiping, and authentic interactions, you'll set yourself apart in the digital dating landscape. Remember, your goal is to create a profile that reflects your true self while fostering connections that have the potential to evolve into something beautiful. So, dive in, explore the features, and embark on your journey to making lasting connections on Koottali.
 
-[Get koottali: Malayali dating app (Android & iOS)](https://emwavetech.com/get-koottali/)
+[Get koottali: Malayali dating app for android](https://play.google.com/store/apps/details?id=com.koottali.app&hl=en_IN&gl=US)
+
+[Get koottali: Malayali dating app for iOS](https://apps.apple.com/us/app/koottali-connect-with-mallus/id6448742453)

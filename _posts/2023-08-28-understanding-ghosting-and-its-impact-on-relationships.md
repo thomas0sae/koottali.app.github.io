@@ -31,4 +31,6 @@ Conclusion: Redefining Dating Norms
 
 The phenomenon of ghosting in modern dating culture reveals the need for a shift in our approach to relationships. As we strive to find love and connection, it's crucial to remember the impact our actions have on others. By fostering empathy, open communication, and respect, we can redefine dating norms and create an environment where ghosting becomes a rarity rather than the norm. Let's strive for a dating world where love, relationships, and friendships are nurtured with kindness and understanding.
 
-[Get koottali: Malayali dating app (Android & iOS)](https://emwavetech.com/get-koottali/)
+[Get koottali: Malayali dating app for android](https://play.google.com/store/apps/details?id=com.koottali.app&hl=en_IN&gl=US)
+
+[Get koottali: Malayali dating app for iOS](https://apps.apple.com/us/app/koottali-connect-with-mallus/id6448742453)

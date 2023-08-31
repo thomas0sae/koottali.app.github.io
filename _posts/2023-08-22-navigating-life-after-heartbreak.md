@@ -39,4 +39,6 @@ Heartbreak is undoubtedly painful, but it's also a catalyst for growth and trans
 
 ![Alt text](/assets/images/in1.jpg "a title")
 
-[Get koottali: Malayali dating app (Android & iOS)](https://emwavetech.com/get-koottali/)
+[Get koottali: Malayali dating app for android](https://play.google.com/store/apps/details?id=com.koottali.app&hl=en_IN&gl=US)
+
+[Get koottali: Malayali dating app for iOS](https://apps.apple.com/us/app/koottali-connect-with-mallus/id6448742453)
