@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.koottali.app",
+      "sha256_cert_fingerprints": [
+        "8A:30:0C:0A:EC:A2:BB:4C:E6:E5:24:E1:36:7A:A8:3C:9F:4B:09:88:C1:A9:75:9A:5F:50:5D:5F:52:F3:C9:F2"
+      ]
+    }
+  }
+]
