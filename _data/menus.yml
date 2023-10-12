@@ -22,6 +22,12 @@ footermenu:
   - title: Privacy Policy
     url: "privacy-policy/"
 
+  - title: EULA
+    url: "EULA/"
+
+  - title: Terms and Conditions
+    url: "tnc/"
+
   - title: Contact
     url: "contact/"
 
