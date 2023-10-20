@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Ultimate First Date Guide: Navigating Love on Koottali Malayali "
+title: "The Ultimate First Date Guide: Navigating Love on Koottali Malayali  "
 categories: [koottali, dating, malayali dating]
 image: assets/images/had5.jpg
 ---
