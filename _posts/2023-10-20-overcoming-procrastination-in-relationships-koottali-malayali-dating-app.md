@@ -2,7 +2,7 @@
 layout: post
 title: "Overcoming Procrastination in Relationships: A Guide to Building the Best Connections on Koottali Malayali"
 categories: [koottali, dating, malayali dating]
-image: assets/images/had5.jpg
+image: assets/images/had6.jpg
 ---
 
 
