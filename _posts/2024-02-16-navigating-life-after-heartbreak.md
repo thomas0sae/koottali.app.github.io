@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Healing and Renewal: Navigating Life After Heartbreak | Koottali: Indian Dating App "
-categories: [koottali, dating, indian dating]
+categories: [koottali, dating, indian dating, india dating app]
 image: assets/images/ha8.jpg
 ---
 
