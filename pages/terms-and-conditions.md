@@ -25,7 +25,7 @@ You have no unspent convictions, nor are you subject to any court order related 
 You will not attempt to access Koottali after being banned or removed from the platform.
 You agree to comply with this agreement and all applicable local, state, national, and international laws, regulations, and rules.
 
-Governing Law: These terms of use and privacy policy shall be governed in all respects by the laws of India and you agree to submit to the exclusive jurisdiction of the courts in Kochi, Kerala.
+Governing Law: These terms of use and privacy policy shall be governed in all respects by the laws of India and you agree to submit to the exclusive jurisdiction of the courts in Kochi, India.
 
 ### Creation of New Account with Koottali
 
