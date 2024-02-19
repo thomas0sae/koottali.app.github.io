@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Ultimate First Date Guide: Navigating Love on Koottali India  "
+title: "The Ultimate First Date Guide: Navigating Love on Koottali India"
 categories: [koottali, dating, india dating, indian dating, koottali dating app]
 image: assets/images/had5.jpg
 ---
