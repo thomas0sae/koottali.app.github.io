@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "8 tips for building a Foundation for Lasting Love: Mindsets for Success in the Dating Journey with Koottali India"
+title: "8 Tips for Building a Foundation for Lasting Love: Mindsets for Success in the Dating Journey with Koottali India"
 categories: [koottali, dating, india dating, indian dating, koottali dating app]
 image: assets/images/hae3.jpg
 ---
