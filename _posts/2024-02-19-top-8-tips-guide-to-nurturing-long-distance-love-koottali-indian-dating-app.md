@@ -41,3 +41,7 @@ To conclude, while long-distance relationships may come with their share of diff
 [Get koottali: Indian Dating App for android](https://play.google.com/store/apps/details?id=com.koottali.app&hl=en_IN&gl=US)
 
 [Get koottali: Indian Dating App for iOS](https://apps.apple.com/us/app/koottali-connect-with-mallus/id6448742453)
+
+#### About Koottali Indian Dating App
+
+Koottali Indian Dating app is an innovating free new dating app which helps Indian Dating Single girls match with Indian Dating single boys. It helps Indian Dating Single boys match with India Dating single girls. Koottali India Dating app ensures a secure space for you to explore, connect, and engage with other Indian  singles. Koottali is a best dating app in India without payment and you can explore many free profiles and chat with them.
