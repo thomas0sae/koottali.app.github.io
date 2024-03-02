@@ -5,6 +5,8 @@ permalink: /privacy-policy/
 comments: false
 ---
 
+##### Last updated: March 1, 2024
+
 ### Privacy Policy
 Koottali is strongly committed to your right to privacy. This section covers Koottali's privacy policy that highlights how we handle personally identifiable information that Koottali collects when you are on our Website or App. Please read this privacy policy carefully. All information covered by Koottali's privacy policy will continue to be protected under Koottali's privacy policy irrespective of any change in your membership status in the future. By using the Koottali Website or App, you accept all practices described in this privacy policy.
 
