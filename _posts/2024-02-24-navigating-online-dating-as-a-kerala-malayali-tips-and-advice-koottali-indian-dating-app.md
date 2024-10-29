@@ -48,7 +48,7 @@ Remember to encourage users to be themselves, stay safe, and enjoy the journey o
 
 [Get NRI Meet: Indian Dating App for android](https://play.google.com/store/apps/details?id=com.koottali.app&hl=en_IN&gl=US)
 
-[Get NRI Meet: Indian Dating App for iOS](https://apps.apple.com/us/app/koottali-connect-with-mallus/id6448742453)
+[Get NRI Meet: Indian Dating App for iOS](https://apps.apple.com/us/app/nri-meet-find-meet-marry-nris/id6448742453)
 
 #### About NRI Meet Indian Dating App
 

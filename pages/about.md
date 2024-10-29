@@ -26,6 +26,6 @@ Download free Indian Dating App Today! Lose yourself to a better dating experien
 Download free Indian Malayali Dating App from these platforms today!
 
 [NRI Meet Android app](https://play.google.com/store/apps/details?id=com.koottali.app)
-[NRI Meet IOS app](https://apps.apple.com/us/app/koottali-connect-with-mallus/id6448742453)
+[NRI Meet IOS app](https://apps.apple.com/us/app/nri-meet-find-meet-marry-nris/id6448742453)
 
 #indiadatingapp #nrimeet #dating #datingapp #india #indian #indiandatingapp #bharath #bharatapp #desidating #datingadvice #love #matchmaking #indianlove #ishq #southasianlove #northindianlove #southindianlove #datingtips #marriagegoals #desimatchmaker #indianwedding #onlinedating

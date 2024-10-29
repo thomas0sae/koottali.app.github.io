@@ -21,4 +21,4 @@ To conclude, heartbreak is undoubtedly painful, but it's also a catalyst for gro
 
 [Get NRI Meet: Indian dating app for android](https://play.google.com/store/apps/details?id=com.koottali.app&hl=en_IN&gl=US)
 
-[Get NRI Meet: Indian dating app for iOS](https://apps.apple.com/us/app/koottali-connect-with-mallus/id6448742453)
+[Get NRI Meet: Indian dating app for iOS](https://apps.apple.com/us/app/nri-meet-find-meet-marry-nris/id6448742453)

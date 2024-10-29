@@ -22,4 +22,4 @@ To Conclude, while it's important to give people a chance, it's equally crucial 
 
 [Get NRI Meet: Free Indian Dating App: Android](https://play.google.com/store/apps/details?id=com.koottali.app&hl=en_IN&gl=US)
 
-[Get NRI Meet: Free Indian Dating App: IOS](https://apps.apple.com/us/app/koottali-connect-with-mallus/id6448742453)
+[Get NRI Meet: Free Indian Dating App: IOS](https://apps.apple.com/us/app/nri-meet-find-meet-marry-nris/id6448742453)
