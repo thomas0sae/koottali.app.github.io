@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5 Crucial Red Flags to Watch for While Dating"
-categories: [koottali, dating, indian dating, india dating app]
+categories: [nri-meet, dating, indian dating, NRI Meet india dating app]
 image: assets/images/ha1.jpg
 ---
 
@@ -20,6 +20,6 @@ Fifth are the attempts to isolate or control. Healthy relationships allow both p
 
 To Conclude, while it's important to give people a chance, it's equally crucial to recognize and respond to these red flags in order to protect your emotional and mental well-being. Ignoring these warning signs could lead to a relationship filled with stress, frustration, and even harm. Remember, a healthy relationship should be based on trust, mutual respect, and open communication. By staying attentive to these red flags, you empower yourself to make informed decisions about your dating journey, increasing your chances of finding a partner who truly values and respects you.
 
-[Get koottali: Free Indian Dating App: Android](https://play.google.com/store/apps/details?id=com.koottali.app&hl=en_IN&gl=US)
+[Get NRI Meet: Free Indian Dating App: Android](https://play.google.com/store/apps/details?id=com.koottali.app&hl=en_IN&gl=US)
 
-[Get koottali: Free Indian Dating App: IOS](https://apps.apple.com/us/app/koottali-connect-with-mallus/id6448742453)
+[Get NRI Meet: Free Indian Dating App: IOS](https://apps.apple.com/us/app/koottali-connect-with-mallus/id6448742453)

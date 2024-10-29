@@ -7,9 +7,9 @@ comments: false
 
 Last updated May 19, 2023
 
-Welcome to Koottali’s End User License Agreement. This is a contract between you and Emwave Technologies (as defined further below) and we want you to know yours and our rights before you use the Koottali website or application (“Koottali” or the “App” or "Licensed Application"). Please take a few moments to read these Terms before enjoying the App, because once you access, view or use the App, you are going to be legally bound by these Terms (so probably best to read them first!).
+Welcome to NRI Meet’s End User License Agreement. This is a contract between you and Emwave Technologies (as defined further below) and we want you to know yours and our rights before you use the NRI Meet website or application (“NRI Meet” or the “App” or "Licensed Application"). Please take a few moments to read these Terms before enjoying the App, because once you access, view or use the App, you are going to be legally bound by these Terms (so probably best to read them first!).
 
-Koottali is licensed to You (End-User) by Emwave Technologies Private Limited, India ("Licensor"), for use only under the terms of this License Agreement.
+NRI Meet is licensed to You (End-User) by Emwave Technologies Private Limited, India ("Licensor"), for use only under the terms of this License Agreement.
 
 By downloading the Licensed Application from Apple's software distribution platform ("App Store") , and any update thereto (as permitted by this License Agreement), You indicate that You agree to be bound by all of the terms and conditions of this License Agreement, and that You accept this License Agreement. App Store is referred to in this License Agreement as "Services."
 
@@ -17,7 +17,7 @@ The parties of this License Agreement acknowledge that the Services are not a Pa
 
 This License Agreement may not provide for usage rules for the Licensed Application that are in conflict with the latest Apple Media Services Terms and Conditions ("Usage Rules"). Emwave Technologies Private Limited acknowledges that it had the opportunity to review the Usage Rules and this License Agreement is not conflicting with them.
 
-Koottali when purchased or downloaded through the Services, is licensed to You for use only under the terms of this License Agreement. The Licensor reserves all rights not expressly granted to You. Koottali is to be used on devices that operate with Apple's operating systems ("iOS" and "Mac OS") .
+NRI Meet when purchased or downloaded through the Services, is licensed to You for use only under the terms of this License Agreement. The Licensor reserves all rights not expressly granted to You. NRI Meet is to be used on devices that operate with Apple's operating systems ("iOS" and "Mac OS") .
 
 TABLE OF CONTENTS
 THE APPLICATION
@@ -42,7 +42,7 @@ MISCELLANEOUS
 DISCLAIMER
 
 1. THE APPLICATION
-   Koottali is a piece of software created to Networking, Friendship and Social Media — and customized for iOS mobile devices ("Devices"). It is used to Networking, Friendship and Social Media.
+   NRI Meet is a piece of software created to Networking, Friendship and Social Media — and customized for iOS mobile devices ("Devices"). It is used to Networking, Friendship and Social Media.
 
 Before you can use the App, you will need to register for an account (“Account”). In order to create an Account you must:
 
@@ -52,7 +52,7 @@ You can create an Account via manual registration by using your phone number. By
 
 Unfortunately, we cannot allow you to use another person’s Account or to share your Account with any other person without permission.
 
-You’ll have great fun on Koottali, but if you feel the need to leave, you can delete your Account at any time by going to the ‘Profile’ tab page, click on your name, and the edit profile button, when you are logged in, and clicking on the ‘Delete account’ link. Your Account will be deleted immediately but it may take a little while for Your Content (defined below) to be completely removed from the App. Your profile information will be treated in accordance with our Privacy Policy. If you delete your Account and try to create a new account within this time period using the same credentials, we will re-activate your Account for you.
+You’ll have great fun on NRI Meet, but if you feel the need to leave, you can delete your Account at any time by going to the ‘Profile’ tab page, click on your name, and the edit profile button, when you are logged in, and clicking on the ‘Delete account’ link. Your Account will be deleted immediately but it may take a little while for Your Content (defined below) to be completely removed from the App. Your profile information will be treated in accordance with our Privacy Policy. If you delete your Account and try to create a new account within this time period using the same credentials, we will re-activate your Account for you.
 
 You may not access, tamper with, or use non-public areas of the App or our systems. Certain portions of the App may not be accessible if you have not registered for an Account.
 
@@ -73,10 +73,10 @@ You may not access, tamper with, or use non-public areas of the App or our syste
 
 content that you upload and provide (“Your Content”);
 content that members provide (“Member Content”); and
-content that the Emwave or Koottali Group provides (including, without limitation, database(s) and/or software) (“Our Content”).
-There is certain content we can’t allow on Koottali
+content that the Emwave or NRI Meet Group provides (including, without limitation, database(s) and/or software) (“Our Content”).
+There is certain content we can’t allow on NRI Meet
 
-We want our users to be able express themselves as much as possible and post all sorts of things on Koottali, but we have to impose restrictions on certain content which:
+We want our users to be able express themselves as much as possible and post all sorts of things on NRI Meet, but we have to impose restrictions on certain content which:
 
 contains language or imagery which could be deemed offensive or is likely to harass, upset, embarrass, alarm or annoy any other person (including for example and without limitation, language that could be deemed discriminatory towards an individual’s race, color, ethnicity, national origin, religion, disability, sexual orientation, gender expression, gender identity or physical appearance);
 
@@ -91,7 +91,7 @@ relates to commercial activities (including, without limitation, sales, competit
 
 involves the transmission of “junk” mail or “spam”;
 
-contains any spyware, adware, viruses, corrupt files, worm programs or other malicious code designed to interrupt, damage or limit the functionality of or disrupt any software, hardware, telecommunications, networks, servers or other equipment, Trojan horse or any other material designed to damage, interfere with, wrongly intercept or expropriate any data or personal information whether from Koottali or otherwise;
+contains any spyware, adware, viruses, corrupt files, worm programs or other malicious code designed to interrupt, damage or limit the functionality of or disrupt any software, hardware, telecommunications, networks, servers or other equipment, Trojan horse or any other material designed to damage, interfere with, wrongly intercept or expropriate any data or personal information whether from NRI Meet or otherwise;
 
 itself, or the posting of which, infringes any third party’s rights (including, without limitation, intellectual property rights and privacy rights);
 
@@ -101,7 +101,7 @@ is harmful to minors; or
 
 impersonates any other person, including falsely stating your name.
 
-Koottali Group operates a zero-tolerance policy for this kind of content.
+NRI Meet Group operates a zero-tolerance policy for this kind of content.
 
 5. USE OF DATA
    You acknowledge that Licensor will be able to access and adjust Your downloaded Licensed Application content and Your personal information, and that Licensor's use of such material and information is subject to Your legal agreements with Licensor and Licensor's privacy policy: https://emwavetech.com/koottali/privacy-policy/index.html .
@@ -131,7 +131,7 @@ Your Contributions do not otherwise violate, or link to material that violates, 
 Any use of the Licensed Application in violation of the foregoing violates this License Agreement and may result in, among other things, termination or suspension of your rights to use the Licensed Application.
 
 7. PUSH NOTIFICATIONS; LOCATION-BASED FEATURES
-   We may provide you with emails, text messages, push notifications, alerts and other messages related to the App and/or the Koottali services, such as enhancements, offers, products, events, and other promotions. After downloading the App, you will be asked to accept or deny push notifications/alerts. If you deny, you will not receive any push notifications/alerts. If you accept, push notifications/alerts will be automatically sent to you. If you no longer wish to receive push notifications/alerts from the App, you may opt out by changing your notification settings on your mobile device. With respect to other types of messaging or communications, such as emails, text messages, etc., you can unsubscribe or opt out by either following the specific instructions included in such communications, or by emailing us with your request at support@koottali.app
+   We may provide you with emails, text messages, push notifications, alerts and other messages related to the App and/or the NRI Meet services, such as enhancements, offers, products, events, and other promotions. After downloading the App, you will be asked to accept or deny push notifications/alerts. If you deny, you will not receive any push notifications/alerts. If you accept, push notifications/alerts will be automatically sent to you. If you no longer wish to receive push notifications/alerts from the App, you may opt out by changing your notification settings on your mobile device. With respect to other types of messaging or communications, such as emails, text messages, etc., you can unsubscribe or opt out by either following the specific instructions included in such communications, or by emailing us with your request at support@nrimeet.app
 
 The App may allow access to or make available opportunities for you to view certain content and receive other products, services and/or other materials based on your location. To make these opportunities available to you, the App will determine your location using one or more reference points, such as GPS, Bluetooth and/or software within your mobile device. If you have set your mobile device to disable GPS, Bluetooth or other location determining software or do not authorize the App to access your location data, you will not be able to access such location-specific content, products, services and materials.
 
@@ -167,7 +167,7 @@ You represent and warrant that You are not located in a country that is subject 
 
 Tech Support
 
-support@koottali.app
+support@nrimeet.app
 
 13. TERMINATION
     The license is valid until terminated by Emwave Technologies Private Limited or by You. Your rights under this license will terminate automatically and without notice from Emwave Technologies Private Limited if You fail to adhere to any term(s) of this license. Upon License termination, You shall stop all use of the Licensed Application, and destroy all copies, full or partial, of the Licensed Application.
