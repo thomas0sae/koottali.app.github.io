@@ -1,14 +1,14 @@
-title: "Koottali"
+title: "NRI Meet App"
 email: marketing@koottali.com
 timezone: UTC
-url: https://koottali.com
+url: https://nrimeet.app
 baseurl: "/"
 permalink: "/:title/"
 logo: "assets/images/logo.png"
 favicon: "assets/images/ktnew.svg"
-author: koottali
+author: NRI Meet
 paginate: 30
-disqus: "koottali.com"
+disqus: "nrimeet.app"
 locale: en_us
 lang: en_us
 feed_items: 10
@@ -30,16 +30,16 @@ authors:
     display_name: Sal
     avatar: "assets/images/sal.png"
     email: marketing@koottali.com
-    web: https://www.koottali.com
+    web: https://www.nrimeet.app
     twitter: https://twitter.com/koottali
     description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   john:
-    name: Koottali
-    display_name: Koottali
+    name: NRI Meet
+    display_name: NRI Meet
     avatar: "assets/images/john.png"
     email: marketing@koottali.com
-    web: https://www.koottali.com/
-    twitter: https://twitter.com/koottali
+    web: https://www.nrimeet.app/
+    twitter: https://twitter.com/nrimeetapp
     description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
 
 # Social
