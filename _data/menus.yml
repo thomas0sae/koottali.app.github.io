@@ -31,6 +31,9 @@ footermenu:
   - title: Contact
     url: "contact/"
 
+  - title: Feedback
+    url: "accounts-data-deletion/"
+
   # - title: Download
   #   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
   #   external: true
